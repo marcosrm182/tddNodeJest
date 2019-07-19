@@ -8,7 +8,7 @@ var app = express();
 app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json())
 
-const postsHandlers = users({ axios })
+const postsHandlers = posts({ axios })
 
 app.post('/', authenticate, postsHandlers.post);
 
