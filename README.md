@@ -4,4 +4,4 @@
 
 2. npm test
 
-3. Your application will only be complete with test️ ⚡😝️️️️️️️️⚡️
+3. Your application will only be complete with TDD ⚡😝️️️️️️️️⚡️
